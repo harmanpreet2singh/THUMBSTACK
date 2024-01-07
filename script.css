@@ -1,0 +1,44 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.intro {
+    max-width: 600px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.cta {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.portfolio {
+    background-color: #f9f9f9;
+    padding: 40px;
+    text-align: center;
+}
+
